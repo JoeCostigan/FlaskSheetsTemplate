@@ -73,7 +73,7 @@ We will use environment variables to pass secret credentials to the app in a sec
 Create a file called ".env" in the root directory of this repository, and add contents like the following (specifying your own credentials, as obtained during the "Setup" section):
 
 ```sh
-FLASK_APP="web_app"
+FLASK_APP="Joes Project"
 
 #
 # GOOGLE OAUTH (see Google Cloud Setup Guide):
