@@ -78,13 +78,13 @@ FLASK_APP="web_app"
 #
 # GOOGLE OAUTH (see Google Cloud Setup Guide):
 #
-GOOGLE_CLIENT_ID=
-GOOGLE_CLIENT_SECRET="___________"
+GOOGLE_CLIENT_ID=""
+GOOGLE_CLIENT_SECRET=""
 
 #
 # GOOGLE SHEETS DATABASE (see Google Sheets Database Setup Guide)
 #
-GOOGLE_SHEETS_DOCUMENT_ID=
+GOOGLE_SHEETS_DOCUMENT_ID=""
 #GOOGLE_SHEETS_TEST_DOCUMENT_ID="____________"
 
 #
